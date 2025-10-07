@@ -1,0 +1,1 @@
+- [x] Modify server/server.lua to use current train entity coords instead of stored spawn coords for inventory distance check
